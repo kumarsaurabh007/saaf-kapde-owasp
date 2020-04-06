@@ -17,5 +17,5 @@
     Without them this Project won't be possible.
     </h3>
     <h1>
-    MADE WITH LOVE BY SSBEAST AND ACER ASPIRE!
+    MADE WITH :heart: BY SSBEAST AND ACER ASPIRE!
     </h1>
